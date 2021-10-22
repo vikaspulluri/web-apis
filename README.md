@@ -1,3 +1,4 @@
 # web-apis
-## NavigatoinTiming
-## ResourceTiming
+
+1. NavigatoinTiming
+2. ResourceTiming
