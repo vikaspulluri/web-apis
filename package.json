@@ -1,0 +1,22 @@
+{
+  "name": "web-apis",
+  "version": "1.0.0",
+  "description": "1. NavigatoinTiming\r 2. ResourceTiming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikaspulluri/web-apis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikaspulluri/web-apis/issues"
+  },
+  "homepage": "https://github.com/vikaspulluri/web-apis#readme",
+  "dependencies": {
+    "web-vitals": "^3.0.2"
+  }
+}
